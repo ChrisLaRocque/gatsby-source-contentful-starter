@@ -1,0 +1,27 @@
+{
+  "name": "gatsby-source-contentful-starter",
+  "version": "1.0.0",
+  "private": true,
+  "description": "gatsby-source-contentful-starter",
+  "author": "ChrisLaRocque",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^4.15.2",
+    "gatsby-plugin-image": "^2.15.1",
+    "gatsby-plugin-sharp": "^4.15.1",
+    "gatsby-source-contentful": "^7.13.1",
+    "gatsby-source-filesystem": "^4.15.0",
+    "gatsby-transformer-sharp": "^4.15.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
