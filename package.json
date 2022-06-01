@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-source-contentful-starter",
+  "name": "gatsby-starter-source-contentful",
   "version": "1.0.0",
   "private": true,
-  "description": "gatsby-source-contentful-starter",
+  "description": "gatsby-starter-source-contentful",
   "author": "ChrisLaRocque",
   "keywords": [
     "gatsby"

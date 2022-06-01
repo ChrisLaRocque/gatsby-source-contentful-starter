@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=source-contentful-starter">
+  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=starter-source-contentful">
     <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
@@ -15,7 +15,7 @@ To get started you only need the API keys for a Contentful space with content in
 
     ```shell
     # create a new Gatsby site using the minimal starter
-    npx gatsby new gatsby-starter-source-contentful https://github.com/ChrisLaRocque/gatsby-source-contentful-starter
+    npx gatsby new gatsby-starter-source-contentful https://github.com/ChrisLaRocque/gatsby-starter-source-contentful
     ```
 
 2.  **Add keys from Contentful to .env files**
@@ -64,17 +64,17 @@ To get started you only need the API keys for a Contentful space with content in
 
 5.  **Learn more**
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=source-contentful-starter)
+    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=starter-source-contentful)
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=source-contentful-starter)
+    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=starter-source-contentful)
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=source-contentful-starter)
+    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=starter-source-contentful)
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=source-contentful-starter)
+    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=starter-source-contentful)
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=source-contentful-starter)
+    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=starter-source-contentful)
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=source-contentful-starter)
+    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=starter-source-contentful)
 
 ## 🚀 Quick start (Gatsby Cloud)
 
